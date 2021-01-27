@@ -22,6 +22,7 @@
     {"id":{"name":"spr_grass_tall","path":"sprites/spr_grass_tall/spr_grass_tall.yy",},"order":9,},
     {"id":{"name":"se_coin","path":"sounds/se_coin/se_coin.yy",},"order":41,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":2,},
+    {"id":{"name":"shd_with_functions","path":"shaders/shd_with_functions/shd_with_functions.yy",},"order":42,},
     {"id":{"name":"obj_flower_lotus","path":"objects/obj_flower_lotus/obj_flower_lotus.yy",},"order":0,},
     {"id":{"name":"spr_hearts","path":"sprites/spr_hearts/spr_hearts.yy",},"order":10,},
     {"id":{"name":"spr_duckling_run","path":"sprites/spr_duckling_run/spr_duckling_run.yy",},"order":4,},
